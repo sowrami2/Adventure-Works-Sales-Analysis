@@ -4,7 +4,7 @@ This repository presents comprehensive data analysis specifically delving into t
 
 Tools Used: Microsoft Excel
 
-<a href="[https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Call+Center.csv](https://drive.google.com/file/d/1_GosmnipvYnqm2U5UgnDMtEGU-ORanC4/view?usp=sharing)">Video
+<a href="https://drive.google.com/file/d/1_GosmnipvYnqm2U5UgnDMtEGU-ORanC4/view">Video
 
 Client: Adventure Works is a large multinational company that manufactures and distributes 4 categories of products: bikes, bike components, bike accessories, and clothing. The company’s commercial market is spread across 3 continents and 6 countries namely North America (United States & Canada), Europe (France, Germany, and the United Kingdom), and Australia (Australia).
 
