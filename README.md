@@ -10,7 +10,7 @@ This repository presents comprehensive data analysis specifically delving into t
 
 ***Client Requirement:*** Analyze transactional data through visual representations to assess performance and profit over a period of 4 years with specific focus on time trends, products, and customers to identify key patterns.
 
-***The dashboard consists of two sections:*** Time Series & Details.
+***The dashboard consists of two sections:*** Time Series & Details
 
 ***Key Insights:***
 1.	2007 and 2008 accounted for over approximately 67% of total profits, 66% of total revenue, and 93% of total transactions from 2005 to 2008, highlighting these years as pivotal in our company's growth.
