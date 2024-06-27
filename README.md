@@ -2,17 +2,17 @@
 
 This repository presents comprehensive data analysis specifically delving into the sales data of Adventure Works, a prominent multinational corporation. The insights gathered aid the company in boosting sales by pinpointing top-performing products and identifying target demographics for focused promotions. Additionally, this analysis facilitates inventory management for optimized operations.
 
-Tools Used: Microsoft Excel
+***Tools Used:*** Microsoft Excel
 
 <a href="https://drive.google.com/file/d/1_VVrJ0ZGdF5b8mLLlOjYmf16ACg0Lk4j/view?usp=sharing">Video
 
-Client: Adventure Works is a large multinational company that manufactures and distributes 4 categories of products: bikes, bike components, bike accessories, and clothing. The company’s commercial market is spread across 3 continents and 6 countries namely North America (United States & Canada), Europe (France, Germany, and the United Kingdom), and Australia (Australia).
+***Client:*** Adventure Works is a large multinational company that manufactures and distributes 4 categories of products: bikes, bike components, bike accessories, and clothing. The company’s commercial market is spread across 3 continents and 6 countries namely North America (United States & Canada), Europe (France, Germany, and the United Kingdom), and Australia (Australia).
 
-Client Requirement: Analyze transactional data through visual representations to assess performance and profit over a period of 4 years with specific focus on time trends, products, and customers to identify key patterns.
+***Client Requirement:*** Analyze transactional data through visual representations to assess performance and profit over a period of 4 years with specific focus on time trends, products, and customers to identify key patterns.
 
-The dashboard consists of two sections: Time Series & Details.
+***The dashboard consists of two sections:*** Time Series & Details.
 
-Key Insights:
+***Key Insights:***
 1.	2007 and 2008 accounted for over approximately 67% of total profits, 66% of total revenue, and 93% of total transactions from 2005 to 2008, highlighting these years as pivotal in our company's growth.
 2.	72% of the total sales were recorded on weekdays.
 3.	The quarterly performance exhibited notable fluctuations, with Q2 achieving the highest contribution at 31%, suggesting potential seasonal patterns.
